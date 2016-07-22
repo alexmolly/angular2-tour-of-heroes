@@ -1,6 +1,5 @@
 # angular2-tour-of-heroes
-Angular 2’s official "Tour of Heroes" tutorial as a simple, lean Angular 2 project seed.
-For Molly pourpose!
+Angular 2’s official "Tour of Heroes" tutorial as a simple, lean Angular 2 project seed.  For Molly pourpose!
 
 ## What is this?
 This is a minimalistic project setup for an Angular 2 application which is based on the code of [Angular 2’s official “Tour of Heroes” tutorial](https://angular.io/docs/ts/latest/tutorial/toh-pt6.html). You can use it as a seed (skeleton) to build your own clean Angular 2 project on top of it.
